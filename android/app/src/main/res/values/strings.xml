@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Neuropad</string>
+    <string name="title_activity_main">Neuropad</string>
+    <string name="package_name">com.neuropad.app</string>
+    <string name="custom_url_scheme">com.neuropad.app</string>
+</resources>
